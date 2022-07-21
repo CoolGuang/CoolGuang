@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoolGuang
 - 👀 I’m interested in algorithm and datastuctures and so on.
-- 🌱 I’m currently working in bytedance major in IOS
+- 🌱 I’m worked in bytedance major in IOS, but now major in python
 - 💞️ I’m looking to collaborate on IOS and algorithm.
 - 📫 More info about me on ...
 
